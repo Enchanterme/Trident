@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "enchanterme-branch",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "enchanterme-branch": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "enchanterme-branch",
+    "origin"
+  ]
+}
